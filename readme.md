@@ -1,4 +1,4 @@
-![banner](./banner.png)
+![banner](./)
 
 ## Welcome to my Resume www.zblcustoms.com
 
